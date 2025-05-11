@@ -28,7 +28,7 @@ author:
   bio              : "南京大学智能科学与技术本科生"
   location         : "China"
   employer         : "Nanjing University"
-  uri              : "https://shangguanqituan.github.io"
+  uri              : https://shangguanqituan.github.io
   email            : "221900492@smail.nju.eddu.cn" 
 
   # Academic websites
